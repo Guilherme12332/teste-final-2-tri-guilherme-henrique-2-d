@@ -1,0 +1,29 @@
+body {background-color: chocolate;
+}
+#ima1 {margin-left: 30%;
+width: 40%;}
+h1 {background-color: darkgoldenrod;
+text-align: center;
+color: dodgerblue;}
+h2 {text-align: center;
+color: chartreuse;
+}
+#ima2 {width: 70%;
+}
+#ima2 {margin-left: 20%;
+}
+h2 {background-color: black;}
+#ima3 { width: 40%;
+}
+#ima3 {margin-left: 30%;
+}
+h3 {background-color: blue;
+    text-align: center;
+    color: brown;
+}
+#ima4 {width: 50%;
+    margin-left: 40%;}
+h4 {background-color: blueviolet;
+    text-align: center;
+    color: coral;
+}
